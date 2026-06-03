@@ -21,6 +21,8 @@ This project implements a Half Adder using **Verilog HDL** and simulates it usin
 ---
 
 ## 📐 Logic Design
+<img width="893" height="649" alt="Screenshot 2026-06-03 141823" src="https://github.com/user-attachments/assets/ace5c9fe-5198-46d6-a42b-7d32f1054ce8" />
+
 
 ### Boolean Expressions
 - **Sum** = A ⊕ B (XOR operation)
