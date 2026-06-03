@@ -109,7 +109,7 @@ All outputs match the expected truth table. ✅
 
 **Vignesh R**
 - LinkedIn: [linkedin.com/in/vignesh-r-906157206](https://www.linkedin.com/in/vignesh-r-906157206)
-- GitHub: [Add your GitHub link here]
+- GitHub: https://github.com/Vignesh525174
 
 ---
 
