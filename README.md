@@ -61,10 +61,13 @@ All outputs match the expected truth table. ✅
 
 ---
 **Real World Applications**
+
+
 Imagine two people each have one apple. If both put their apples into one basket, there are 2 apples. In binary, 2 is written as 10. The 0 stays in the current position (Sum), and the 1 moves to the next position (Carry). This is exactly how a Half Adder works.
 
-i) Digital Calculator
-ii) Cricket Score Counter
+**i) Digital Calculator**
+
+**ii) Cricket Score Counter**
 
 Imagine a digital scoreboard.
 
